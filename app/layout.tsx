@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     url: 'https://jairas.dev',
     title: 'Jairas | Portfolio',
     description: 'Developer Portfolio of Jairas',
-    images: '/public/og.png',
+    images: 'https://www.jairas.dev/og.png',
   },
 }
 
